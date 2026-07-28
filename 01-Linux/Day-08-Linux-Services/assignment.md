@@ -192,12 +192,3 @@ Answer the following questions in your own words:
    It ensures the service automatically recovers from crashes or unexpected exits without manual intervention, improving uptime and availability.
    </details>
 
----
-
-## Submission Checklist
-
-- [ ] Created and ran `service_check.sh`
-- [ ] Completed the service investigation table
-- [ ] Filled out the troubleshooting checklist
-- [ ] Designed the systemd unit file
-- [ ] Answered the knowledge check questions
