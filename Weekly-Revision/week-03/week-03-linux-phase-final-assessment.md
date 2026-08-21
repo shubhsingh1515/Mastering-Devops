@@ -3,9 +3,6 @@
 ## Sunday Weekly Revision - Linux Phase Final Assessment
 
 - **Focus:** Full Linux-phase revision, production troubleshooting, quiz, practical assessment, interview preparation, and Month 1 project review
-- **New Topic Today:** No (revision and assessment only)
-
-## Progress Tracker
 
 ### Linux Phase Complete
 
