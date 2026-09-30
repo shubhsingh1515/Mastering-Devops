@@ -4,8 +4,7 @@
 
 ### Centralized Logging and Alerting Architecture
 
-**Level:** Intermediate -> Professional  
-**Duration:** 25-30 minutes  
+**Level:** Intermediate -> Professional   
 **Focus:** Centralized logs, structured events, alert design, log retention, alert fatigue and MERN production incident response
 
 Yesterday, Day 50, was the weekly revision and assessment. Today we resume the syllabus with a production question:
